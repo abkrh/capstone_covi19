@@ -1,8 +1,7 @@
 # capstone_covi19
 Project in Data Scientist Nanodegree of Udacity
 
-Read the associated blog post here:
-https://medium.com/@abubakar.hussaini/covid-19-whos-getting-things-right-2f0c05796303
+Read the associated blog post at this [link](https://medium.com/@abubakar.hussaini/covid-19-whos-getting-things-right-2f0c05796303).
 
 
 ### Table of Contents
